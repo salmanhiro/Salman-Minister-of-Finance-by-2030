@@ -3,7 +3,7 @@ This is what Sal-man should done to data-driven national finance to be a ministe
 
 This thread consist of some mathematical issue, but not all. You could took a look for not-so-math reads.
 
-## * 1. Finance Data Analysis
+## *1. Finance Data Analysis
 
 Of course world financial data would be analyzed and I will search for, you know, something interested (include interest rate because interest rate is interestin).
 
